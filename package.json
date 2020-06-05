@@ -1,0 +1,9 @@
+{
+  "name": "jsonarraytools",
+  "version": "1.0.1",
+  "description": "Easy to use functions for handling JSON objects and arrays. Documentation provided below.",
+  "main": "index.js",
+  "keywords": ["JSON", "json-tools", "json tools", "objects", "arrays"],
+  "author": "Kevin Muscara",
+  "license": "MIT"
+}
